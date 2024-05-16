@@ -25,8 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash131120&show_icons=true&locale=en" alt="yash131120" /></p>
 
 <br>
-b
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash131120&" alt="yash131120" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash131120&label=Profile%20views&color=0e75b6&style=flat" alt="yash131120" /> </p>
 
