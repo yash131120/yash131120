@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://www.postman.com/_wp-assets/home/homepage-header-illustration.3385ecfa6f9284b1df99096f6ab456fe.svg">
 
 <br>
-![banner-image](https://github.com/yash131120/yash131120/assets/139432375/bafd5ead-da45-4dbd-aced-0807d5378b6f)
 
 - 🌱 I’m currently learning **React Native👨🏻‍💻**
 
